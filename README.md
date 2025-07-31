@@ -9,7 +9,7 @@
 
 This repository contains machine learning labs and sample models developed as part of Break Through Tech AI, a program hosted by Cornell Tech focused on bridging the gender gap in AI through hands-on technical training and mentorship.
 
-About the Project
+About the Project <br>
 Over eight weeks and throughout the academic year, I completed a series of labs covering the foundations of machine learning, including:
 * Data preparation and exploratory data analysis
 * Model development and evaluation
