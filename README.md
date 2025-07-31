@@ -26,21 +26,14 @@ Labs Included
 * Lab 8: Defining and Solving an ML Problem
 
 Tech Stack
-
-Languages: Python
-
-ML & Data Libraries: Scikit-learn, TensorFlow, Keras, PyTorch
-
-Data Analysis & Visualization: Pandas, NumPy, Seaborn
+* Languages: Python
+* ML & Data Libraries: Scikit-learn, TensorFlow, Keras, PyTorch
+* Data Analysis & Visualization: Pandas, NumPy, Seaborn
 
 Skills Gained
-End-to-end ML pipeline development
-
-Model tuning and evaluation
-
-Neural network implementation
-
-Business-context model deployment
-
-Team collaboration and agile project work
+* End-to-end ML pipeline development
+* Model tuning and evaluation
+* Neural network implementation
+* Business-context model deployment
+* Team collaboration and agile project work
 
